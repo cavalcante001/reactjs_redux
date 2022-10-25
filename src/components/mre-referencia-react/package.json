@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      "mre-referencia-react@1.0.3",
+      "/home/paulo/sites/Pinc"
+    ]
+  ],
+  "_from": "mre-referencia-react@1.0.3",
+  "_id": "mre-referencia-react@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-PKS9/MVk6pbE1QZeILLJ2B0YpoM+8ZsFbCdA0EvHzTC9+9xGS6T+GN2n9t07SVUz1msS3bkhJxhg+3u7KfNQmw==",
+  "_location": "/mre-referencia-react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "mre-referencia-react@1.0.3",
+    "name": "mre-referencia-react",
+    "escapedName": "mre-referencia-react",
+    "rawSpec": "1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "1.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://npm.itamaraty.gov.br/mre-referencia-react/-/mre-referencia-react-1.0.3.tgz",
+  "_spec": "1.0.3",
+  "_where": "/home/paulo/sites/Pinc",
+  "author": {
+    "name": "Caio Curvina"
+  },
+  "description": "Componente para identificar NUP e Mencionados no texto e criar link para o projeto.",
+  "keywords": [
+    "referencia"
+  ],
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "name": "mre-referencia-react",
+  "publishConfig": {
+    "registry": "https://npm.itamaraty.gov.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket.itamaraty.gov.br:7999/afrodite/mre-referencia-react.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
